@@ -2,9 +2,9 @@
 
 DATE: 
 
-GITHUB LINK: 
+GITHUB LINK: https://github.com/saran7d/Ex02-Outlier.git
 
-COLAB LINK: 
+COLAB LINK: https://colab.research.google.com/drive/1ohXaJsN1gKvtDQaNPGO0-q8XMbhSFvtz?usp=sharing
 
 
 You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
